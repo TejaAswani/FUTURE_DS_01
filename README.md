@@ -44,8 +44,7 @@ The goal is to provide **insights and actionable recommendations** for improving
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](link-to-your-dashboard-screenshot.png)  
-*(Optional: replace with your screenshot link)*
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
