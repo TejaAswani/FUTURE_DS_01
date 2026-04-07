@@ -1,0 +1,31 @@
+Order Date,Region,Category,Product Name,Sales,Profit
+2024-01-05,East,Technology,Laptop,55000,8000
+2024-01-08,West,Furniture,Chair,5000,1200
+2024-01-10,South,Technology,Phone,30000,5000
+2024-01-12,North,Furniture,Table,8000,1500
+2024-01-15,East,Office Supplies,Printer,12000,2000
+2024-01-18,West,Technology,Tablet,20000,4000
+2024-01-20,South,Furniture,Sofa,25000,3000
+2024-01-22,North,Technology,Monitor,15000,2500
+2024-01-25,East,Office Supplies,Paper,3000,500
+2024-01-28,West,Furniture,Bed,40000,6000
+2024-02-02,South,Technology,Keyboard,4000,800
+2024-02-05,North,Office Supplies,Pen,1500,300
+2024-02-08,East,Furniture,Cupboard,22000,3500
+2024-02-12,West,Technology,Smartwatch,18000,3500
+2024-02-15,South,Office Supplies,Notebook,2000,400
+2024-02-18,North,Furniture,Desk,12000,2000
+2024-02-22,East,Technology,Camera,27000,4500
+2024-02-25,West,Office Supplies,Stapler,2500,400
+2024-02-28,South,Furniture,Recliner,30000,5000
+2024-03-03,North,Technology,Speaker,7000,1200
+2024-03-06,East,Office Supplies,Envelope,1800,300
+2024-03-10,West,Furniture,Wardrobe,35000,5500
+2024-03-12,South,Technology,Headphones,6000,1000
+2024-03-15,North,Office Supplies,Markers,2200,350
+2024-03-18,East,Furniture,Bookshelf,14000,2500
+2024-03-20,West,Technology,Drone,45000,7000
+2024-03-22,South,Office Supplies,Files,2800,500
+2024-03-25,North,Furniture,Stool,3500,600
+2024-03-28,East,Technology,Router,9000,1500
+2024-03-30,West,Office Supplies,Glue,1200,200
