@@ -78,7 +78,7 @@ pip install streamlit pandas plotly
 ```bash
 streamlit run task_1.py
 ```
-
+---
 ## 🙌 Author
 
 Teja Aswani
