@@ -4,6 +4,12 @@
 
 ---
 
+## 🎯 Project Demo
+
+![Dashboard Preview](Screenshot%202026-04-07%20111354.png)
+
+---
+
 ## 🗂 Dataset Used
 - Superstore Sales Dataset (`superstore.csv`)
 
@@ -22,44 +28,48 @@ This dashboard analyzes business sales data to help answer key business question
 - Which categories and regions are most profitable?
 - How do sales trends change over time?
 
-The goal is to provide **insights and actionable recommendations** for improving business performance.
-
 ---
 
 ## 📊 Key Insights
-- The business generated a total sales of **143,800** with a profit of **22,800**, indicating overall profitability.  
-- The profit margin is healthy, showing efficient cost management and pricing strategy.  
-- A few **top-performing products** contribute significantly to total revenue, suggesting a strong product focus.  
-- The **category contribution analysis** shows that certain categories dominate sales, while others have lower impact.  
-- The **sales trend over time** helps identify periods of growth and possible seasonal demand patterns.
+- Total sales: **143,800**
+- Total profit: **22,800**
+- Strong contribution from top-performing products
+- Category-wise variation in sales
+- Seasonal sales trends observed
 
 ---
 
 ## 💡 Recommendations
-- Focus marketing efforts on **top-performing products** to maximize revenue.  
-- Improve or rethink strategy for **low-performing categories**.  
-- Analyze **high-sales periods** and replicate strategies to boost future performance.  
-- Expand profitable categories and optimize low-performing ones to increase overall revenue.
+- Focus on high-performing products  
+- Improve low-performing categories  
+- Use seasonal trends for planning  
 
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard Preview](Screenshot%202026-04-07%20111354.png)
-(Screenshot%202026-04-07%111410.png).
 
+### 🔹 Dashboard View 1
+![Dashboard 1](Screenshot%202026-04-07%20111354.png)
 
----
+### 🔹 Dashboard View 2
+![Dashboard 2](Screenshot%202026-04-07%20111410.png)
 
-## 📥 Download Filtered Data
-The dashboard allows downloading the filtered sales dataset directly.
+### 🔹 Dashboard View 3
+![Dashboard 3](Screenshot%202026-04-07%20111432.png)
+
+### 🔹 Dashboard View 4
+![Dashboard 4](Screenshot%202026-04-07%20111456.png)
+
+### 🔹 Dashboard View 5
+![Dashboard 5](Screenshot%202026-04-07%20111508.png)
 
 ---
 
 ## ⚡ How to Run
-1. Install required packages:  
-   ```bash
-   pip install streamlit pandas plotly
-Run the dashboard:
 
+pip install streamlit pandas plotly
 streamlit run task_1.py
-   
+
+🙌 Author
+
+Teja Aswani
