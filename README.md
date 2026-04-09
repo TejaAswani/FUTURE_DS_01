@@ -63,14 +63,19 @@ This dashboard analyzes business sales data to help answer key business question
 ![Dashboard 5](Screenshot%202026-04-07%20111508.png)
 
 ---
-## 📥 Download Filtered Data 
-The dashboard allows downloading the filtered sales dataset directly. 
+## 📥 Download Filtered Data  
+The dashboard allows downloading the filtered sales dataset directly.
+
 ---
+
 ## ⚡ How to Run
+
+1. Install required packages:
 bash
 pip install streamlit pandas plotly
-Run the dashboard:
-   streamlit run task_1.py
+2.Run the dashboard:
+streamlit run task_1.py
+
 
 🙌 Author
 
