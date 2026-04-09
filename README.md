@@ -67,16 +67,15 @@ This dashboard analyzes business sales data to help answer key business question
 The dashboard allows downloading the filtered sales dataset directly.
 
 ---
-
 ## ⚡ How to Run
 
 1. Install required packages:
-bash
+```bash
 pip install streamlit pandas plotly
-2.Run the dashboard:
+
+2. Run the dashboard:
+
 streamlit run task_1.py
-
-
 🙌 Author
 
 Teja Aswani
