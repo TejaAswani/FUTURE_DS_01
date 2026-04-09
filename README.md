@@ -45,6 +45,8 @@ The goal is to provide **insights and actionable recommendations** for improving
 
 ## 📈 Dashboard Preview
 ![Dashboard Preview](Screenshot%202026-04-07%20111354.png)
+(Screenshot%202026-04-07%111410.png).
+
 
 ---
 
