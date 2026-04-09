@@ -73,6 +73,7 @@ The dashboard allows downloading the filtered sales dataset directly.
 1. Install required packages:
 ```bash
 pip install streamlit pandas plotly
+2. Run the dashboard
 streamlit run task_1.py
 
 
