@@ -81,4 +81,4 @@ streamlit run task_1.py
 
 ## 🙌 Author
 
-Teja Aswani
+**Teja Aswani**
