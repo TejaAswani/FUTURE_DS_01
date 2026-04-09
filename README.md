@@ -76,6 +76,9 @@ pip install streamlit pandas plotly
 2. Run the dashboard:
 
 streamlit run task_1.py
-🙌 Author
+
+---
+
+## 🙌 Author
 
 Teja Aswani
