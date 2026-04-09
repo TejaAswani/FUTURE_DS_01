@@ -31,20 +31,19 @@ This dashboard analyzes business sales data to help answer key business question
 ---
 
 ## 📊 Key Insights
-- Total sales: **143,800**
-- Total profit: **22,800**
-- Strong contribution from top-performing products
-- Category-wise variation in sales
-- Seasonal sales trends observed
+- The business generated a total sales of **143,800** with a profit of **22,800**, indicating overall profitability.
+- The profit margin is healthy, showing efficient cost management and pricing strategy.
+- A few **top-performing products** contribute significantly to total revenue, suggesting a strong product focus.
+- The **category contribution analysis** shows that certain categories dominate sales, while others have lower impact.
+- The **sales trend over time** helps identify periods of growth and possible seasonal demand patterns.
 
 ---
 
 ## 💡 Recommendations
-- Focus on high-performing products  
-- Improve low-performing categories  
-- Use seasonal trends for planning  
-
----
+- Focus marketing efforts on **top-performing products** to maximize revenue.
+- Improve or rethink strategy for **low-performing categories**.
+- Analyze **high-sales periods** and replicate strategies to boost future performance.
+- Expand profitable categories and optimize low-performing ones to increase overall revenue.
 
 ## 📈 Dashboard Preview
 
@@ -64,11 +63,14 @@ This dashboard analyzes business sales data to help answer key business question
 ![Dashboard 5](Screenshot%202026-04-07%20111508.png)
 
 ---
-
+## 📥 Download Filtered Data 
+The dashboard allows downloading the filtered sales dataset directly. 
+---
 ## ⚡ How to Run
-
+bash
 pip install streamlit pandas plotly
-streamlit run task_1.py
+Run the dashboard:
+   streamlit run task_1.py
 
 🙌 Author
 
